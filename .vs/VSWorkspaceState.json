@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Laboratorio 1",
+    "\\Laboratorio 1\\Laboratorio 1",
+    "\\Laboratorio 1\\Laboratorio 1\\App_Data"
   ],
-  "SelectedNode": "\\.gitignore",
+  "SelectedNode": "\\Laboratorio 1",
   "PreviewInSolutionExplorer": false
 }
